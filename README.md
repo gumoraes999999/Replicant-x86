@@ -5,7 +5,7 @@
 
 ## About
 
-CyanogenMod-x86/LineageOS-x86 is a community project to virtualize and Google the CyanogenMod/LineageOS operating system by Cyanogen Inc.
+CyanogenMod-x86/LineageOS-x86 is a community project to virtualize the CyanogenMod/LineageOS operating system by Cyanogen Inc.
 
 ***
 
