@@ -9,22 +9,6 @@ CyanogenMod-x86/LineageOS-x86 is a community project to virtualize the CyanogenM
 
 ***
 
-#### Heavy
-
-Heavy – Contains ALL the Android libraries, and thus has to be re-licensed. Will run almost any app, similarly to Bluestacks
-
-License: ???
-
-#### Vanilla
-
-Vanilla – Middle option, bootable CyanogenMod/LineageOS image with little modification.
-
-##### Additional build
-
-An additional build is available as a much larger file, it allows the choice of one of the 2 builds at installation, with Live CD support.
-
-***
-
 ## Supported CyanogenMod-x86/LineageOS-x86 versions
 
 ### CyanogenMod-x86 3.6.8.1 (Cupcake)
