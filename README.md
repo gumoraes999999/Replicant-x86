@@ -5,12 +5,12 @@
 
 ## About
 
-CyanogenMod-x86/LineageOS-x86 is a community project to virtualize the CyanogenMod/LineageOS operating system by Cyanogen Inc.
+CyanogenMod-x86/LineageOS-x86 is a community project to virtualize the CyanogenMod/LineageOS operating system by Cyanogen Inc/LineageOS Community.
 
 ***
 
 ## Supported CyanogenMod-x86/LineageOS-x86 versions
-Sadly, i could not find 3.6.8.1 (Cupcake) version
+Sadly, there's no cupcake or donut source code
 
 ### CyanogenMod-x86 4.2.15.1 (Donut)
 
