@@ -13,54 +13,54 @@ Replicant-x86 is a community project to virtualize the Replicant operating syste
 
 Replicant-x86 comes with 2 different builds for each Android release:
 
-#### Vanilla
+#### Open-sourced
 Open-sourced – The normal version of replicant-x86
 
-#### Googled
+#### Proprietaried
 Proprietaried  – An replicant-x86 version that will have Google Apps (GApps).
 
 ## Supported Replicant-x86 versions
 
 ### Replicant-x86 2.2 (Froyo)
 
-- [ ] Vanilla
-- [ ] Googled
+- [ ] Open-sourced
+- [ ] Proprietaried
 - [ ] Compilation + LiveCD
 
 ### Replicant-x86 2.3 (Gingerbread)
 
-- [ ] Vanilla
-- [ ] Googled
+- [ ] Open-sourced
+- [ ] Proprietaried
 - [ ] Compilation + LiveCD
 
 ### Replicant-x86 4.0 (Ice Cream Sandwich)
 
-- [ ] Vanilla
-- [ ] Googled
+- [ ] Open-sourced
+- [ ] Proprietaried
 - [ ] Compilation + LiveCD
 
 ### Replicant-x86 4.2 (Jelly Bean)
 
-- [ ] Vanilla
-- [ ] Googled
+- [ ] Open-sourced
+- [ ] Proprietaried
 - [ ] Compilation + LiveCD
 
 ### Replicant-x86 6.0 Alpha (M)
 
-- [ ] Vanilla
-- [ ] Googled
+- [ ] Open-sourced
+- [ ] Proprietaried
 - [ ] Compilation + LiveCD
 
 ### Replicant-x86 6.0 Beta (Macadamia Nut Cookie)
 
-- [ ] Vanilla
-- [ ] Googled
+- [ ] Open-sourced
+- [ ] Proprietaried
 - [ ] Compilation + LiveCD
 
 ### Replicant-x86 6.0 (Marshmallow)
 
-- [ ] Vanilla
-- [ ] Googled
+- [ ] Open-sourced
+- [ ] Proprietaried
 - [ ] Compilation + LiveCD
 
 ### Android x86
