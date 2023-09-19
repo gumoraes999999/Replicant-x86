@@ -11,13 +11,13 @@ Replicant-x86 is a community project to virtualize the Replicant operating syste
 
 ### Builds
 
-Replicant-x86 comes with 3 different builds for each Android release:
+Replicant-x86 comes with 2 different builds for each Android release:
 
 #### Vanilla
-Vanilla – The normal version of replicant-x86
+Open-sourced – The normal version of replicant-x86
 
 #### Googled
-Googled  – An replicant-x86 version that will have gapps.
+Proprietaried  – An replicant-x86 version that will have Google Apps (GApps).
 
 ## Supported Replicant-x86 versions
 
