@@ -1,81 +1,67 @@
 
 ***
 
-# CyanogenMod-x86/LineageOS-x86
+# Replicant-x86
 
 ## About
 
-CyanogenMod-x86/LineageOS-x86 is a community project to virtualize the CyanogenMod/LineageOS operating system by Cyanogen Inc/LineageOS Community.
+Replicant-x86 is a community project to virtualize the Replicant operating system by Denis Carikli and Paul Kocialkowski.
 
 ***
 
-## Supported CyanogenMod-x86/LineageOS-x86 versions
-Sadly, there's no cupcake or donut source code
+### Builds
 
-### CyanogenMod-x86 4.2.15.1 (Donut)
+Replicant-x86 comes with 3 different builds for each Android release:
 
+#### Vanilla
+Vanilla – The normal version of replicant-x86
+
+#### Googled
+Googled  – An replicant-x86 version that will have gapps.
+
+## Supported Replicant-x86 versions
+
+### Replicant-x86 2.2 (Froyo)
+
+- [ ] Vanilla
+- [ ] Googled
 - [ ] Compilation + LiveCD
 
-### CyanogenMod-x86 5.0.8 (Eclair)
+### Replicant-x86 2.3 (Gingerbread)
 
+- [ ] Vanilla
+- [ ] Googled
 - [ ] Compilation + LiveCD
 
-### CyanogenMod-x86 6.1.3 (Froyo)
+### Replicant-x86 4.0 (Ice Cream Sandwich)
 
+- [ ] Vanilla
+- [ ] Googled
 - [ ] Compilation + LiveCD
 
-### CyanogenMod-x86 7.2.0 (Gingerbread)
+### Replicant-x86 4.2 (Jelly Bean)
 
+- [ ] Vanilla
+- [ ] Googled
 - [ ] Compilation + LiveCD
 
-### CyanogenMod-x86 9.1 (Ice Cream Sandwich)
+### Replicant-x86 6.0 Alpha (M)
 
+- [ ] Vanilla
+- [ ] Googled
 - [ ] Compilation + LiveCD
 
-### CyanogenMod-x86 10.2.1 (Jelly Bean)
+### Replicant-x86 6.0 Beta (Macadamia Nut Cookie)
 
+- [ ] Vanilla
+- [ ] Googled
 - [ ] Compilation + LiveCD
 
-### CyanogenMod-x86 11.0 (KitKat)
+### Replicant-x86 6.0 (Marshmallow)
 
+- [ ] Vanilla
+- [ ] Googled
 - [ ] Compilation + LiveCD
-
-### CyanogenMod-x86 12.1 (Lollipop)
-
-- [ ] Compilation + LiveCD
-
-### CyanogenMod-x86 13.0 (Marshmallow)
-
-- [ ] Compilation + LiveCD
-
-### CyanogenMod-x86 14.1 (Nougat)
-
-- [ ] Compilation + LiveCD
-
-### LineageOS 15.1 (Oreo)
-
-- [ ] Compilation + LiveCD
-
-### LineageOS 16.0 (Pie)
-
-- [ ] Compilation + LiveCD
-
-### LineageOS 17.1 (Quince Tart)
-
-- [ ] Compilation + LiveCD
-
-### LineageOS 18.1 (Red Velvet Cake)
-
-- [ ] Compilation + LiveCD
-
-### LineageOS 19.1 (Snow Cone)
-
-- [ ] Compilation + LiveCD
-
-### LineageOS 20 (Tiramisu)
-
-- [ ] Compilation + LiveCD
-***
 
 ### Android x86
 
@@ -83,12 +69,12 @@ Website: [`https://www.android-x86.org/`](https://www.android-x86.org/)
 
 Android x86 is a separate project. It isn't dead, but I have specific needs for my Android setup, and I wanted to go my own way.
 
-While this project is not functional yet, Android x86 is viable for "old" versions of Android (Android 10 and below)
+While this project is not functional yet, Android x86 is viable for "old" versions of Android (Android 9 and below)
 
 ***
 
 ### Community
 
-[`Android x86`](https://www.android-x86.org/) The inspiration to the CyanogenMod-x86/LineageOS-x86 projects
+[`Android x86`](https://www.android-x86.org/) The inspiration to the Replicant-x86 projects
 
 ***
