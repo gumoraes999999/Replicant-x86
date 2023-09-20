@@ -155,10 +155,10 @@
   <project path="hardware/libhardware" name="replicant/android_hardware_libhardware.git" remote="gitorious" revision="replicant-2.2" />
   <project path="hardware/libhardware_legacy" name="replicant/android_hardware_libhardware_legacy.git" remote="gitorious" revision="replicant-2.2" />
   <project path="hardware/msm7k" name="replicant/android_hardware_msm7k.git" remote="gitorious" revision="replicant-2.2" />
-  <project path="hardware/qcom/gps" name="replicant/gps" remote="gitorious.git" revision="replicant-2.2" />
+  <project path="hardware/qcom/gps" name="replicant/gps.git" remote="gitorious" revision="replicant-2.2" />
   <project path="hardware/qcom/mm-core" name="CyanogenMod/android_hardware_qcom_mm-core.git" remote="github" />
   <project path="hardware/qcom/mm-video" name="CyanogenMod/android_hardware_qcom_mm-video.git" remote="github" />
-  <project path="hardware/ril" name="replicant/ril" remote="gitorious.git" revision="replicant-2.2" />
+  <project path="hardware/ril" name="replicant/ril.git" remote="gitorious" revision="replicant-2.2" />
   <project path="hardware/ril/htcgeneric-ril" name="replicant/hardware_xdandroid-ril.git" remote="gitorious" revision="replicant-2.2" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3.git" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan.git" />
